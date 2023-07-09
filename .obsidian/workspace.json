@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "9c6f4e3e504a7164",
+        "id": "364f3ae3061e38fc",
         "type": "tabs",
         "children": [
           {
-            "id": "4da0e0d9a5d19b95",
+            "id": "1f420f30aa86b5ca",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -183,7 +179,7 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "4da0e0d9a5d19b95",
+  "active": "2bdc4d72c7fc052d",
   "lastOpenFiles": [
     "OGL.md",
     "Licenses/YZE License.md",
